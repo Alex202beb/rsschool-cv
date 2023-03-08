@@ -16,3 +16,8 @@
 - ##### 2010 - 2023
 #### Additional Educat
 #### Self-Education
+
+## Languages
+- #### Belarusian - 100%
+- #### Russian - 100%
+- #### English - 37%
